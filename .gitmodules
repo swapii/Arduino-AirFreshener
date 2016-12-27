@@ -1,0 +1,3 @@
+[submodule "libs/LowPower"]
+	path = libs/LowPower
+	url = https://swapii@github.com/rocketscream/Low-Power
